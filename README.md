@@ -13,6 +13,9 @@ jQuery,
 JavaScript and 
 Faker
 
+<img width="1263" alt="Project Picker Screen Shot " src="https://user-images.githubusercontent.com/87589967/144764057-4a7b718b-8e9e-4844-b61a-8c88c816f8fe.png">
+
+
 Created by Katlynn Blanton, Kyle Lux, Morgan Moore and Sheri Foster
 
 wireframe link:
